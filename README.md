@@ -32,7 +32,7 @@ Hi, I'm Rayan Rahman, a student in Pune passionate about technology, data analyt
 
 ## Live Website
 
-Visit my portfolio: [rayan-portfolio.github.io](https://your-username.github.io/rayan-portfolio)
+Visit my portfolio: [rayan-portfolio.github.io](https://xt67.github.io/xt67-Portfolio/)
 
 ## Setup for GitHub Pages
 
@@ -48,5 +48,6 @@ Visit my portfolio: [rayan-portfolio.github.io](https://your-username.github.io/
 3. No build process required - it's a static HTML/CSS/JS website
 
 ---
+
 
 *This portfolio is built with HTML5, CSS3, Bootstrap 5, and JavaScript*
